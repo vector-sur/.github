@@ -3,8 +3,6 @@
 
   # Vector Sur
 
-  Connecting Businesses with Customers by Air
-
   [Homepage](https://url) •
   [Why?](https://url) •
   [Contribute](https://url)
